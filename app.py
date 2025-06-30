@@ -191,82 +191,82 @@ PERGUNTAS = [
     {
         "pergunta": "O contrato acabou de ser publicado. Qual seu primeiro movimento?",
         "opcoes": {
-            "A": "Verifico prazos e datas no sistema.",
-            "B": "Envio ofício ao setor requisitante.",
-            "C": "Ligo pro jurídico perguntando o que pode dar errado.",
-            "D": "Programo alertas automáticos no meu painel de controle."
+            "A": "Verifico prazos e datas no sistema e já planejo as ações",
+            "B": "Envio ofício ao setor requisitante solicitando informações",
+            "C": "Ligo pro jurídico perguntando o que pode dar errado",
+            "D": "Ajusto minha planilha de controle para gerar alertas automáticos sobre prazos e entregas"
         }
     },
     {
-        "pergunta": "Uma empresa entregou com atraso. Você:",
+        "pergunta": "Ao assumir a gestão de um contrato, quais documentos você analisa primeiro?",
         "opcoes": {
-            "A": "Cobra direto no telefone e avisa que vai dar problema.",
-            "B": "Registra em ofício e pede justificativa formal.",
-            "C": "Salva e-mails e faz print de tudo, só por precaução.",
-            "D": "Avalia o histórico da empresa no seu Power BI."
+            "A": "Contrato, cronograma e contatos - o essencial para começar",
+            "B": "Processo completo: edital, proposta, atas, pareceres e anexos",
+            "C": "Procuro a porta de saída, o telefone do advogado e onde assino o seguro de vida",
+            "D": "Digitalizo tudo e uso IA para mapear pontos críticos e riscos"
         }
     },
     {
-        "pergunta": "Quando o assunto é cláusula contratual, você:",
+        "pergunta": "Para você, qual a principal diferença entre gestor e fiscal de contrato?",
         "opcoes": {
-            "A": "Prefere ir direto ao ponto — o que tem que entregar e quando.",
-            "B": "Lê item por item e destaca os mais sensíveis.",
-            "C": "Manda pro jurídico antes de opinar.",
-            "D": "Usa IA para resumir e destacar riscos ocultos."
+            "A": "Gestor decide, fiscal executa - simples assim",
+            "B": "Gestor cuida da parte administrativa, fiscal acompanha a execução técnica",
+            "C": "Gestor assina coisas perigosas, fiscal só confere",
+            "D": "Gestor gerencia o processo, fiscal valida os entregáveis via sistema"
         }
     },
     {
-        "pergunta": "Na sua mesa tem:",
+        "pergunta": "Como você realiza a fiscalização de um contrato?",
         "opcoes": {
-            "A": "Um checklist do dia com as pendências.",
-            "B": "Pastas com etiquetas coloridas e protocolos.",
-            "C": "Um bilhete dizendo 'Fuja da CGU'.",
-            "D": "Dois monitores, um script Python rodando e um gráfico animado."
+            "A": "Vou direto ao local, confiro pessoalmente e resolvo na hora",
+            "B": "Sigo rigorosamente o checklist oficial e documento tudo em relatório",
+            "C": "Levo testemunhas, máquina fotográfica, gravador e colete à prova de balas",
+            "D": "Uso app de vistoria digital com geolocalização e timestamps automáticos"
         }
     },
     {
-        "pergunta": "IA na gestão de contratos é:",
+        "pergunta": "Como gestor, em caso de erro na execução contratual, você:",
         "opcoes": {
-            "A": "Interessante, mas o bom mesmo é o gestor na ativa.",
-            "B": "Só uso se for aprovado pelo jurídico.",
-            "C": "Pode ser perigoso, prefiro minha planilha.",
-            "D": "O futuro! Já criei automações no meu contrato de limpeza."
+            "A": "Resolvo com o fornecedor e depois documento a solução",
+            "B": "Notifico formalmente e sigo o rito processual completo",
+            "C": "Comunico imediatamente jurídico, pregoeiro e chefe",
+            "D": "Aciono o sistema de gestão de riscos que já previa essa situação"
         }
     },
     {
-        "pergunta": "Em caso de erro na execução, você:",
+        "pergunta": "Como a IA pode auxiliar você na gestão dos contratos?",
         "opcoes": {
-            "A": "Resolve no campo e comunica depois.",
-            "B": "Segue o rito e abre relatório formal.",
-            "C": "Chama o pregoeiro, o jurídico e o diretor.",
-            "D": "Tenta prever isso antes via análise de risco automatizada."
+            "A": "Útil para tarefas básicas, mas prefiro resolver pessoalmente",
+            "B": "Só se for homologada e aprovada pelo jurídico",
+            "C": "Tenho medo de errar usando isso, prefiro o método tradicional",
+            "D": "Automatizo alertas, análises de risco e até gero relatórios com IA"
         }
     },
     {
-        "pergunta": "O que você gostaria de receber da sua chefia?",
+        "pergunta": "Ao ser designado fiscal de contrato, o que você gostaria de receber da chefia?",
         "opcoes": {
-            "A": "Autonomia pra resolver.",
-            "B": "Um manual com os fluxos todos desenhados.",
-            "C": "Proteção institucional para não sobrar pra mim.",
-            "D": "Ferramentas tecnológicas e espaço para inovação."
+            "A": "Autonomia para agir e resolver problemas rapidamente",
+            "B": "Manual detalhado com todos os procedimentos e fluxos",
+            "C": "Garantia por escrito de que terei suporte jurídico",
+            "D": "Acesso a sistemas modernos e ferramentas de gestão"
         }
     },
     {
         "pergunta": "O contrato exige reajuste anual. O que deve ser feito antes da renovação?",
         "opcoes": {
-            "A": "Aplicar o índice IPCA automaticamente",
-            "B": "Verificar cláusula de reajuste, índice definido e publicar no DOU",
-            "C": "Esperar o fornecedor pedir formalmente",
-            "D": "Só renovar, o reajuste vem depois"
+            "A": "Calculo o reajuste e já acerto com o fornecedor",
+            "B": "Verifico cláusula de reajuste e índice definido no contrato",
+            "C": "Espero o fornecedor solicitar formalmente para me proteger",
+            "D": "Meu sistema já calculou automaticamente com base no índice"
         }
     },
     {
-        "pergunta": "Qual das cláusulas abaixo é obrigatória segundo a Lei 14.133/21?",
+        "pergunta": "Quais cláusulas são essenciais em um contrato administrativo segundo a Lei 14.133/21?",
         "opcoes": {
-            "A": "Cláusula de rescisão unilateral por conveniência",
-            "B": "Cláusula penal acima de 20% do valor do contrato",
-            "C": "Cláusula sobre garantias e seguros, mesmo se não exigidos",
-            "D": "Cláusula de acompanhamento da execução por gestor designado"
+            "A": "As principais: objeto, preço, prazo e penalidades",
+            "B": "Todas as obrigatórias: partes, objeto, preço, prazo, garantias, fiscalização...",
+            "C": "As que me protegem: penalidades, rescisão e responsabilidades",
+            "D": "As digitalizáveis: SLA, KPIs, métricas de performance e gestão"
         }
     }
 ]
