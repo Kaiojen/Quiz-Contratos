@@ -198,7 +198,7 @@ PERGUNTAS = [
         }
     },
     {
-        "pergunta": "Ao assumir a gestão de um contrato, quais documentos você analisa primeiro?",
+        "pergunta": "Ao assumir a fiscalização de um contrato, quais documentos você analisa primeiro?",
         "opcoes": {
             "A": "Contrato, cronograma e contatos - o essencial para começar",
             "B": "Processo completo: edital, proposta, atas, pareceres e anexos",
@@ -209,10 +209,10 @@ PERGUNTAS = [
     {
         "pergunta": "Para você, qual a principal diferença entre gestor e fiscal de contrato?",
         "opcoes": {
-            "A": "Gestor decide, fiscal executa - simples assim",
-            "B": "Gestor cuida da parte administrativa, fiscal acompanha a execução técnica",
-            "C": "Gestor assina coisas perigosas, fiscal só confere",
-            "D": "Gestor gerencia o processo, fiscal valida os entregáveis via sistema"
+            "A": "Gestor coordena, fiscal vai a campo e confere se está sendo cumprido",
+            "B": "Gestor cuida da parte administrativa e legal, fiscal verifica a execução técnica",
+            "C": "Gestor assina e se responsabiliza, fiscal só olha e denuncia se algo der errado",
+            "D": "Gestor gerencia dados e processos, fiscal valida entregas via sistema digital"
         }
     },
     {
@@ -225,7 +225,7 @@ PERGUNTAS = [
         }
     },
     {
-        "pergunta": "Como gestor, em caso de erro na execução contratual, você:",
+        "pergunta": "Como fiscal, em caso de erro na execução contratual, você:",
         "opcoes": {
             "A": "Resolvo com o fornecedor e depois documento a solução",
             "B": "Notifico formalmente e sigo o rito processual completo",
